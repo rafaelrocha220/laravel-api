@@ -1,6 +1,6 @@
 # API REST LARAVEL
 
-This is my first API from my course of laravel.
+This is my first API from my course basead in laravel framewok.
 
 ## Usage
 ``` 
